@@ -1,0 +1,70 @@
+body{
+/*  background-image: url(../img/web_1.png);
+  background-repeat: no-repeat; 
+  background-size: cover;*/
+  background-color:  #fff;
+}
+a:hover{
+
+  text-decoration: none;
+
+}
+.ex1{
+  border:2px solid #F9F9F9;
+}
+.ex2:hover{
+  cursor: pointer;
+  color:#11cbd7;
+}
+#t1{
+  color:#000;
+}
+#t1:hover{
+   cursor: pointer;
+  color:#11cbd7;
+}
+.btn-primary{
+  background-color:#11cbd7 !important;
+  border-color: #11cbd7 !important;
+}
+.ex4{
+
+  display: block;
+}
+
+hr{
+  color:#000;
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
+}
+.ex5{
+  color: #007bff;
+}
+.ex5:hover{
+
+  text-decoration: underline;
+  color:#000;
+  cursor: pointer;
+}
+.fa-2x{
+  font-size:1.5em !important;
+}
+.ex6{
+  display: block;
+  color:#fff !important;
+}
+.ex6:hover{
+
+  text-decoration: underline;
+  color:#000;
+  cursor: pointer;
+}
+.ex7{
+
+  color:#fff;
+
+}
+.ex7:hover{
+
+  cursor: pointer;
+  color:#000;
+}

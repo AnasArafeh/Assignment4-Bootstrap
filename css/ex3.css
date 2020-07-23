@@ -1,0 +1,30 @@
+body{
+/*	background-image: url(../img/web_1.png);
+	background-repeat: no-repeat; 
+	background-size: cover;*/
+	background-color:  #F9F9F9;
+}
+a:hover{
+
+	text-decoration: none;
+
+}
+.ex1{
+	border:2px solid #F9F9F9;
+}
+#t1{
+	
+	color:#000;
+}
+#t1:hover{
+	cursor: pointer;
+	color:#11cbd7;
+}
+.ex2:hover{
+	cursor: pointer;
+	color:#11cbd7;
+}
+.btn-primary{
+	background-color:#11cbd7 !important;
+	border-color: #11cbd7 !important;
+}

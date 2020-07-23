@@ -1,0 +1,16 @@
+.try1{
+
+	background-image: url(img/volcano.jpg);
+	background-repeat: no-repeat;
+
+	
+}
+.ex5{
+
+	font-size:  23px;
+}
+.try2:hover{
+
+	cursor: pointer;
+
+}

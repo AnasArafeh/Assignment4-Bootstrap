@@ -1,0 +1,126 @@
+body{
+	color:#000 !important;
+	
+}
+
+.navbar{
+	width:100%;
+	background-color:#fff;
+	height:84px;
+}
+.nav{
+	width:100%;
+	margin-left:300px;
+}
+.try1{
+	margin-left:15px;
+}
+.try2{
+	margin-left:160px;
+}
+.try3{
+	color: #11cbd7 !important;
+}
+.try3:hover{
+	color:gray !important;
+}
+a{
+	text-decoration: none;
+	color:#000 !important;
+}
+a:hover{
+	text-decoration: none;
+
+}
+.try4{
+	height:750px;
+	width:100%;
+
+	background-image:url(../img/img_3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.try5{
+	width:100%;
+	margin-top:300px;
+}
+.text-primary{
+	color:#11cbd7 !important;
+}
+.btn-primary{
+	background-color:#11cbd7 !important;
+	border-color:#11cbd7 !important;
+}
+.input-group-prepand{
+	position: absolute;
+	right: 6px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.mycustom {
+	border: solid 1px green;
+	position: relative;
+}
+.mycustom input[type=text] {
+	border: none;
+	width: 100%;
+	padding-right: 123px;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+.mycustom .input-group-prepend {
+	position: absolute;
+	right: 4px;
+	top: 4px;
+	bottom: 4px;
+	z-index:9;
+}
+.try6:hover{
+
+	color:#11cbd7 !important;
+	opacity: 0.6;
+	cursor: pointer;
+}
+.try7:hover{
+	color: #b3b3b3;
+	opacity: 1.0 !important;
+	cursor: pointer;
+}
+.try8{
+	cursor: pointer;
+	color:#11cbd7 !important;
+}
+.try9{
+	color: gray;
+}
+.try10{
+	border-top:none;
+	border-bottom: none;
+	font-size:16px;
+	border-left:none;
+	height: 32px;
+	margin-top: 15px;
+	border-width: 1px;
+
+}
+
+.ex1:hover{
+
+	color:black !important;
+	background: none !important;
+	
+}
+.ex2:hover{
+
+	
+	background: none !important;
+	
+}
+.try11{
+
+	border:1px solid  #11cbd7;
+	background-color:#11cbd7;
+	color:#fff;
+	padding:5px 7px 5px 7px;
+	border-radius: 10px;
+}

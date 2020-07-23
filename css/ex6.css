@@ -1,0 +1,73 @@
+.try1{
+	background-image: url(../img/kids/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:800px;
+	border-bottom-left-radius: 20%;
+	border-bottom-right-radius: 20%;
+}
+.ex2{
+
+	font-weight: 900;
+}
+.ex3{
+
+	border-radius: 10%;
+}
+@keyframes rotate {
+			0% {
+				transform: rotate(0deg);
+			}
+			25%{
+
+				transform: rotate(20deg);
+			}
+			50%{
+				transform: rotate(0deg);
+			}
+			75%{
+				transform: rotate(-20deg);
+			}
+			100%{
+				transform: rotate(0deg);
+			}
+		}
+#try{
+	animation: rotate 2s infinite;
+	animation-play-state:active;
+}
+.try2{
+			height:150px; width:150px;
+			animation: rotate2 3s infinite;
+			margin-left:200px;
+			margin-top:90px; 
+		}
+.try3{
+	height:150px; width:150px;
+			margin-left:200px;
+			margin-top:-170px;
+			animation: rotate2 3s infinite;
+}
+@keyframes rotate2{
+  0% {transform:rotate(0deg);}
+  50% {transform:rotate(180deg);}
+  100% {transform:rotate(360deg);}
+}
+.try4{
+	color:#fff;
+	text-decoration: none;
+	text-shadow: 0 1px 2px rgba(0,0,0,0.9);
+}
+.try4:hover{
+	text-decoration: none;
+	text-shadow: 0 1px 2px rgba(0,0,0,0.9);
+}
+.try5{
+	cursor: pointer;
+}
+.try6{
+	cursor: pointer;
+}
+.try6:hover{
+	color: #007bff;
+}
